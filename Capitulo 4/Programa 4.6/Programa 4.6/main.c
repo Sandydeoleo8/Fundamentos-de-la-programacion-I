@@ -8,10 +8,14 @@ void f1(int *);
 void main(void)
 {
     int I, K = 4;
+    int *ptr;
+    ptr = &K;
     for (I = 1; I <= 3; I++)
     {
+        //& Operador de direccion &K.
         printf("\n\nEl valor de K antes de llamar a la funcion: %d", ++K);
-        printf("\nEl valor de K despues de llamar a la funcion: %d", f1(&K));
+        f1(ptr);
+        printf("\nEl valor de K despues de llamar a la funcion: %d", K);
         /*Llamada a ala funcion f1. Se pasa la direccion d la variable K, por medio del operador de direccion: &. */
     }
 }
@@ -19,5 +23,5 @@ void main(void)
 void f1(int *R)
 /* La funcion f1 recibe un parametro por referencia. Cada vez que el parametro se utiliza en la funcion debe ir precedido por el operador de indireccion. */
 {
-    *R += *R;
+    *R += *R; //Operador de indireccion *.
 }
