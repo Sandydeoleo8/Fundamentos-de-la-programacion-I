@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710525469 source:c:\users\18099\desktop\fundamentos de la programacion\convertidor de letras\a\main.c
+	<stdio.h>
+	<stdlib.h>
+
