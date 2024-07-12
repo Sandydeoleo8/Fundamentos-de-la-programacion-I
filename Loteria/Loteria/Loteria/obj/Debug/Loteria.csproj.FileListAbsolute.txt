@@ -1,0 +1,5 @@
+C:\Users\18099\Desktop\Fundamentos de la programacion\Loteria\Loteria\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+C:\Users\18099\Desktop\Fundamentos de la programacion\Loteria\Loteria\Loteria\obj\Debug\loteria.Form1.resources
+C:\Users\18099\Desktop\Fundamentos de la programacion\Loteria\Loteria\Loteria\obj\Debug\Loteria.Properties.Resources.resources
+C:\Users\18099\Desktop\Fundamentos de la programacion\Loteria\Loteria\Loteria\obj\Debug\Loteria.csproj.GenerateResource.cache
+C:\Users\18099\Desktop\Fundamentos de la programacion\Loteria\Loteria\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache

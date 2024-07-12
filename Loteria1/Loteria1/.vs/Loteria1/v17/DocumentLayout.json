@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\18099\\Desktop\\Fundamentos de la programacion\\Loteria1\\Loteria1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0A39FA-C827-485F-9889-878E454BAC1D}|Loteria1\\Loteria1.csproj|c:\\users\\18099\\desktop\\fundamentos de la programacion\\loteria1\\loteria1\\loteria1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0A39FA-C827-485F-9889-878E454BAC1D}|Loteria1\\Loteria1.csproj|solutionrelative:loteria1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0A39FA-C827-485F-9889-878E454BAC1D}|Loteria1\\Loteria1.csproj|c:\\users\\18099\\desktop\\fundamentos de la programacion\\loteria1\\loteria1\\loteria1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF0A39FA-C827-485F-9889-878E454BAC1D}|Loteria1\\Loteria1.csproj|solutionrelative:loteria1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\18099\\Desktop\\Fundamentos de la programacion\\Loteria1\\Loteria1\\Loteria1\\Form1.cs",
+              "RelativeDocumentMoniker": "Loteria1\\Form1.cs",
+              "ToolTip": "C:\\Users\\18099\\Desktop\\Fundamentos de la programacion\\Loteria1\\Loteria1\\Loteria1\\Form1.cs",
+              "RelativeToolTip": "Loteria1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:40.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18099\\Desktop\\Fundamentos de la programacion\\Loteria1\\Loteria1\\Loteria1\\Form1.cs",
+              "RelativeDocumentMoniker": "Loteria1\\Form1.cs",
+              "ToolTip": "C:\\Users\\18099\\Desktop\\Fundamentos de la programacion\\Loteria1\\Loteria1\\Loteria1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Loteria1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:32.147Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
